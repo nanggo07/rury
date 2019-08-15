@@ -16,6 +16,7 @@
 <br>
 <br>
 
+<html>
 <body>
   <h1>글을 잘 쓰는 방법</h1>
   <p style= "margin-top: 90px;">
