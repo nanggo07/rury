@@ -1,10 +1,4 @@
 
-<!doctype html>
-<html>
-<head>
-  <title>                        글세상</title>
-  <meta charset="utf-8">
-</head>
   <body>
     <h1><strong>글세상</strong></h1>
 <p style= "margin-top: 90px;">
@@ -19,12 +13,7 @@
 </body>
 </html>
 
-<!doctype html>
-<html>
-<head>
-<title>글을 잘 쓰는 방법</title>
-<meta charset="utf-8">
-</head>
+
 
 <body>
   <h1>글을 잘 쓰는 방법</h1>
